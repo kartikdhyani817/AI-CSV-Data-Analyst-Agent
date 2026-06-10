@@ -6,6 +6,7 @@ AI CSV Data Analyst Agent is a Python-based analytics assistant that automatical
 
 The goal is to help users quickly understand datasets without manually exploring every column.
 
+
 ## Features Completed
 
 ### Day 1
@@ -17,20 +18,26 @@ The goal is to help users quickly understand datasets without manually exploring
 * Missing Value Analysis
 * Automatic Dataset Summary
 
-## Technologies Used
+### Day 2
 
-* Python
-* Google Colab
-* Pandas
+* Duplicate Detection
+* Data Quality Reporting
+* Missing Value Percentage Analysis
+* Correlation Analysis
+* Numerical Data Analysis
+* Categorical Data Analysis
+* Automatic Insight Generation
+
 
 ## Upcoming Features
 
-### Day 2
+### Day 3
 
-* Automatic Data Cleaning
-* Insight Generation
-* Data Quality Checks
+* AI Dataset Analysis
+* Business Recommendations
+* Natural Language Insights
+* Executive Summary Generation
 
-## Author
-
-Kartik Dhyani
+Current Status: Day 2 of Development
+author 
+kartik dhyani

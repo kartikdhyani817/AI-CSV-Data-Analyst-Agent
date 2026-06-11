@@ -39,5 +39,5 @@ The goal is to help users quickly understand datasets without manually exploring
 * Executive Summary Generation
 
 Current Status: Day 2 of Development
-author 
+auth
 kartik dhyani

@@ -2,42 +2,109 @@
 
 ## Project Overview
 
-AI CSV Data Analyst Agent is a Python-based analytics assistant that automatically analyzes CSV datasets and generates useful insights.
+AI CSV Data Analyst Agent is an intelligent analytics assistant that automatically analyzes CSV datasets, performs data quality checks, generates insights, and provides AI-powered business recommendations.
 
-The goal is to help users quickly understand datasets without manually exploring every column.
+The project is designed to help Data Analysts, Business Analysts, and Data Science students quickly understand datasets and generate actionable insights.
 
+## Features
 
-## Features Completed
-
-### Day 1
+### Data Exploration
 
 * CSV Upload
 * Dataset Preview
-* Dataset Shape Analysis
+* Shape Analysis
 * Data Type Inspection
 * Missing Value Analysis
-* Automatic Dataset Summary
 
-### Day 2
+### Data Quality Checks
 
 * Duplicate Detection
-* Data Quality Reporting
 * Missing Value Percentage Analysis
+* Data Quality Reporting
+
+### Statistical Analysis
+
+* Numerical Summary Statistics
 * Correlation Analysis
-* Numerical Data Analysis
-* Categorical Data Analysis
-* Automatic Insight Generation
+* Categorical Analysis
+* Dataset Profiling
 
-
-## Upcoming Features
-
-### Day 3
+### AI-Powered Analytics
 
 * AI Dataset Analysis
-* Business Recommendations
-* Natural Language Insights
-* Executive Summary Generation
+* Business Insights Generation
+* Trend Identification
+* Data Quality Assessment
 
-Current Status: Day 2 of Development
-auth
-kartik dhyani
+### Business Intelligence
+
+* Business Recommendations
+* Opportunity Detection
+* Risk Identification
+* KPI Suggestions
+
+### Reporting
+
+* Executive Summary Generation
+* Insight Reports
+* Recommendation Reports
+
+## Technologies Used
+
+* Python
+* Pandas
+* Google Colab
+* Google Gemini API
+* Generative AI
+
+## Project Workflow
+
+CSV Dataset
+
+↓
+
+Data Exploration
+
+↓
+
+Data Cleaning & Validation
+
+↓
+
+Statistical Analysis
+
+↓
+
+AI Dataset Analysis
+
+↓
+
+Business Recommendations
+
+↓
+
+Executive Summary
+
+## Sample Use Cases
+
+* Sales Analysis
+* Retail Analytics
+* Customer Analytics
+* Marketing Analytics
+* Business Intelligence Reporting
+
+## Future Enhancements
+
+* Interactive Dashboard
+* Streamlit Web Application
+* Automated Visualization Generation
+* Multi-File Analysis
+
+## Project Status
+
+Completed
+
+## Author
+
+Kartik Dhyani
+
